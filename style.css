@@ -1,0 +1,16 @@
+/* * { */
+    /* color : yellow; */
+/* } */
+
+div {
+    color : yellow;
+}
+
+.firstClass{
+    color : black;
+}
+
+#id_test{
+    color: blue;
+    background-color: red;
+}
